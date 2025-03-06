@@ -27,7 +27,27 @@ L'objectif principal de ce projet est de :
 4. **Modélisation** : Création d'un modèle de régression/logistique pour prédire l'approbation des prêts.
 5. **Évaluation** : Mesure de la performance du modèle à l'aide de métriques comme l'accuracy, la précision, le rappel, et le score F1.
 
+### Prérequis
+
+Avant d'exécuter ce projet, vous devez installer les bibliothèques suivantes :
+
+- pandas
+- seaborn
+- matplotlib
+- scikit-learn
+
+Vous pouvez installer ces bibliothèques en utilisant `pip` :
+
+
+### Utilisation
+
+1. Clonez ce dépôt.
+2. Assurez-vous d'avoir installé les dépendances.
+3. Exécutez le script Python pour analyser les données et générer les résultats.
+
 ### À propos du modèle
 
 Le modèle de machine learning utilisé dans ce projet est une **régression logistique** pour prédire si un prêt sera approuvé en fonction des caractéristiques du candidat.
+
+
 
